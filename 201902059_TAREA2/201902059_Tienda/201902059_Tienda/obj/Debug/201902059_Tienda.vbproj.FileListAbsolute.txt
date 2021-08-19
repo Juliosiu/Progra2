@@ -1,0 +1,12 @@
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\201902059_Tienda.vbprojAssemblyReference.cache
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\_201902059_Tienda.Form1.resources
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\_201902059_Tienda.Resources.resources
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\201902059_Tienda.vbproj.GenerateResource.cache
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\201902059_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\bin\Debug\201902059_Tienda.exe.config
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\bin\Debug\201902059_Tienda.exe
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\bin\Debug\201902059_Tienda.pdb
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\bin\Debug\201902059_Tienda.xml
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\201902059_Tienda.exe
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\201902059_Tienda.xml
+C:\Users\Julio\Desktop\2S2021\PROGRA 2\Tareas\201902059_TAREA2\201902059_Tienda\201902059_Tienda\obj\Debug\201902059_Tienda.pdb
