@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "201902059_CICLISTA", "201902059_CICLISTA\201902059_CICLISTA.vbproj", "{50D655D5-BFE9-4EDC-A430-41E92F6E0178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D655D5-BFE9-4EDC-A430-41E92F6E0178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D655D5-BFE9-4EDC-A430-41E92F6E0178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D655D5-BFE9-4EDC-A430-41E92F6E0178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D655D5-BFE9-4EDC-A430-41E92F6E0178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BE0CA2-F3A2-4923-B8BF-16FA18B097B4}
+	EndGlobalSection
+EndGlobal
